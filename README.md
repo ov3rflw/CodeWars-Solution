@@ -1,2 +1,8 @@
 # CodeWars-Solution
-Quelques solutions à certains challenges sur CodeWars
+![alt text](https://biolibre.fr/images/articles/codewars.jpg)
+
+Solutions to challenges on CodeWars in different languages.
+- Python
+
+
+
